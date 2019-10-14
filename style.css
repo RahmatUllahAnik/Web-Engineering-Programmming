@@ -1,0 +1,213 @@
+/*<div class="main_wrap">
+        <div class="wrap">
+            
+        </div>
+    </div>*/
+
+@import url("https://fonts.googleapis.com/css?family=Signika+Negative&display=swap");
+p,
+li {
+  color: white;
+}
+
+body {
+  background: #03071d;
+  font-family: "Signika Negative", sans-serif;
+}
+
+.main_wrap {
+  width: 100%;
+}
+
+.header_bg {
+  background: linear-gradient(to bottom, #ff0066 0%, #660033 100%);
+  color: #ffffff;
+}
+.wrap {
+  width: 960px;
+  display: block;
+
+  border: 1px solid rgb(177, 168, 168);
+
+  display: block;
+  margin: 0 auto;
+}
+
+header {
+  display: inline;
+}
+#header {
+  height: 10px;
+}
+#header h2 {
+  padding-left: 356px;
+  padding-top: 0px;
+}
+
+#header h3 {
+  padding-left: 20px;
+  display: inline-block;
+}
+
+#header p {
+  text-align: initial;
+
+  display: inline;
+  padding-left: 20px;
+}
+#image {
+  padding: 10px;
+  top: -23%;
+  display: inline;
+  padding-left: 757px;
+}
+#image img {
+  width: 150px;
+}
+
+#educational_q {
+  height: 45px;
+  border-top: 0.5px solid rgb(106, 106, 114);
+  border-bottom: 0.5px solid rgb(106, 106, 114);
+  background: rgb(38, 112, 83);
+}
+
+#educational_q p {
+  text-align: center;
+  font-weight: bold;
+}
+#educational_body {
+  height: 220px;
+  padding-top: 10px;
+  background: #106a6d;
+}
+table {
+  margin: 10px auto;
+  background-color: rgb(248, 240, 207);
+  border-collapse: collapse;
+  border: 1px solid red;
+  text-align: center;
+  width: 900px;
+  height: 180px;
+}
+
+#thead_bg {
+  background: rgb(58, 207, 207);
+}
+tabel,
+tr,
+th,
+td {
+  border-collapse: collapse;
+  border: 1px solid green;
+}
+
+#carrier_head {
+  height: 45px;
+  border-top: 0.5px solid rgb(106, 106, 114);
+  border-bottom: 0.5px solid rgb(106, 106, 114);
+  background: rgb(38, 112, 83);
+}
+
+.carrier_body {
+  background: #106a6d;
+}
+#carrier_head p {
+  text-align: center;
+  font-weight: bold;
+}
+.carrier_para p {
+  padding-left: 10px;
+  height: 60px;
+}
+
+#skills_head {
+  height: 45px;
+  border-top: 0.5px solid rgb(106, 106, 114);
+  border-bottom: 0.5px solid rgb(106, 106, 114);
+  background: rgb(38, 112, 83);
+}
+
+#skills_head p {
+  text-align: center;
+  font-weight: bold;
+}
+#skills_body {
+  height: 280px;
+  padding-top: 10px;
+  background: #106a6d;
+}
+
+#skills_table {
+  width: 900px;
+  height: 250px;
+}
+#project_header {
+  height: 45px;
+  border-top: 0.5px solid rgb(106, 106, 114);
+  border-bottom: 0.5px solid rgb(106, 106, 114);
+  background: rgb(38, 112, 83);
+}
+
+#project_header p {
+  text-align: center;
+  font-weight: bold;
+}
+
+#project_body {
+  padding-left: 20px;
+  height: 150px;
+  padding-top: 10px;
+  background: #106a6d;
+}
+#strength_header {
+  height: 45px;
+  border-top: 0.5px solid rgb(106, 106, 114);
+  border-bottom: 0.5px solid rgb(106, 106, 114);
+  background: rgb(38, 112, 83);
+}
+
+#strength_header p {
+  text-align: center;
+  font-weight: bold;
+}
+
+#strength_body {
+  height: 150px;
+  padding-top: 10px;
+  background: #106a6d;
+}
+#achievements_header {
+  height: 45px;
+  border-top: 0.5px solid rgb(106, 106, 114);
+  border-bottom: 0.5px solid rgb(106, 106, 114);
+  background: rgb(38, 112, 83);
+}
+
+#achievements_header p {
+  text-align: center;
+  font-weight: bold;
+}
+
+#achievements_body {
+  height: 150px;
+  padding-top: 10px;
+  background: #106a6d;
+}
+#hobbies_header {
+  height: 45px;
+  border-top: 0.5px solid rgb(106, 106, 114);
+  border-bottom: 0.5px solid rgb(106, 106, 114);
+  background: rgb(38, 112, 83);
+}
+
+#hobbies_header p {
+  text-align: center;
+  font-weight: bold;
+}
+
+#hobbies_body {
+  height: 150px;
+  padding-top: 10px;
+  background: #106a6d;
+}
